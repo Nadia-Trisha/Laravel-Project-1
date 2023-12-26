@@ -1,0 +1,17 @@
+xamp: v7.4.33
+laravel: v8.83.27
+
+
+1 . composer create-project laravel/laravel:^8 project1        =Install laravel comand
+
+
+2. php artisan serve        = run the project command
+
+3.composer install           = get your pakages (like node modules)
+
+* .env  = environment setup
+
+4.php artisan make:controller HomeController   = make controller(inside app folder)
+
+5.w3programmers
+
